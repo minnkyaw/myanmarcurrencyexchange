@@ -1,0 +1,3 @@
+http://code.google.com/p/myanmarcurrencyexchange/
+ၿမန္မာႏူိင္ငံဗဟုိဘဏ္မွေနစဥ္ထုတ္ၿပန္ေသာ ေငြေၾကးေစ်းႏူန္းမ်ားကုိ သင့္mobile ထဲကၾကည့္ဖို႕ (android version)
+http://myanmarcurrencyexchange.googlecode.com/files/Json.apk ကို download လုပ္ပါ။ mobile ph android version အနည္းဆံုး 2.2 ရွိရပါမယ္။ ဘယ္လိုသံုးရတယ္ဆိုတာကို http://myanmarcurrencyexchange.googlecode.com/files/Currency%20Exchange%20manual.docx မွာတင္ထားပါတယ္။ အဆင္မေၿပတာရွိရင္ email ပို႕ေပးႏိုင္ပါတယ္။
